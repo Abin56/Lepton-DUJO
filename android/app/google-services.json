@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187685503651",
+    "firebase_url": "https://lepton-dujo-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lepton-dujo",
+    "storage_bucket": "lepton-dujo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187685503651:android:2c7d2a75cf522f7ffc7516",
+        "android_client_info": {
+          "package_name": "com.LeptonCommunications.Dujo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187685503651-bp43ql4q4n5qpnc3bq3rjo9dmue588ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv2kTuUgw_Jqy-fqgA1DVtnneR4lpxvH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187685503651-bp43ql4q4n5qpnc3bq3rjo9dmue588ut.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187685503651-1klvrrmm76o6eibmas1j9r7i19qpmsec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leptonDujo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

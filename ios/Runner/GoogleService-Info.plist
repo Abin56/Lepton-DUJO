@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>187685503651-1klvrrmm76o6eibmas1j9r7i19qpmsec.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.187685503651-1klvrrmm76o6eibmas1j9r7i19qpmsec</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvzMl6S-XW9EZ_2Zwo0BgGZep9NHKZL4I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>187685503651</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.leptonDujo</string>
+	<key>PROJECT_ID</key>
+	<string>lepton-dujo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lepton-dujo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:187685503651:ios:3c13d31b10f7d7bcfc7516</string>
+	<key>DATABASE_URL</key>
+	<string>https://lepton-dujo-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
